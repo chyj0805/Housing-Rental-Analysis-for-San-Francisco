@@ -8,7 +8,7 @@ Proptech, the application of technology to real-estate markets, is an innovative
 
 Through the analysis of rental income growth and sales prices in San Francisco, I observed that both metrics exhibited an overall upward trend over the years, but average rental price are growth more faster than the average sales prives.Rental income experienced a relatively steady increase, indicating stable demand for rental properties. On the other hand, sales prices demonstrated more volatile fluctuations, influenced by factors such as market conditions, buyer demand, and inventory levels. When examining the trend across neighborhoods, I discovered variations in the relationship between rental income growth and sales prices. Some neighborhoods exhibited strong alignment, with higher sales prices correlating with increased rental income. In these areas, investing in real estate for rental purposes could yield both capital appreciation and attractive rental returns. However, certain neighborhoods showed disparities, where high sales prices did not necessarily correspond to significant rental income growth. These neighborhoods might require a more nuanced evaluation to assess their investment potential.
 
-## Investment Suggesttion 
+## Investment Suggestion 
 
 Based on the analysis, I can provide valuable insights to support the company's one-click, buy-and-rent strategy. Several neighborhoods in San Francisco stand out as potentially attractive for investment purposes. These neighborhoods demonstrate a positive correlation between sales prices and rental income growth, indicating a favorable environment for the company's buy-and-rent approach.
 
